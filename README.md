@@ -5,6 +5,7 @@
 - 🖥️ Atualmente estou estudando JavaScript e Node.js
 - 🔥 Amo tecnologia
 - 🕹️ Gosto de jogar alguma coisa nas horas vagas
+- 🎵 Faço tudo escutando lofi
 
 ### GitHub status
 <div align="center">
