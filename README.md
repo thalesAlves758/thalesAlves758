@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Thales Alves
 
 ### Sobre mim
-- 📚 Graduando em Sistemas de Informação - 4º período
+- 📚 Graduando em Sistemas de Informação - 5º período
 - 🖥️ Atualmente estou estudando JavaScript e Node.js
 - 🔥 Amo tecnologia
 - 🕹️ Gosto de jogar alguma coisa nas horas vagas
