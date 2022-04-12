@@ -1,11 +1,11 @@
-## Olá! Eu sou o Thales Alves
+## 👋 Hello there! I'm Thales Alves
 
-### Sobre mim
-- 📚 Graduando em Sistemas de Informação - 5º período
-- 🖥️ Atualmente estou estudando JavaScript e Node.js
-- 🔥 Amo tecnologia
-- 🕹️ Gosto de jogar alguma coisa nas horas vagas
-- 🎵 Faço tudo escutando lofi
+### About me
+- 🖥️ I'm an Information Systems student - 5/8
+- ⌨️ I'm currently studying HTML, CSS and JavaScript
+- 📚 I'm also learning English
+- ❤️ I love tecnology
+- 🎵 I do everything listening to lofi music, it helps me concentrate
 
 ### GitHub status
 <div align="center">
@@ -15,7 +15,7 @@
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=thalesalves758"/> -->
 </div>
 
-### Habilidades
+### Skills
 <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -26,7 +26,7 @@
 
 ##
 
-### Contato
+### Contact
 <div align="center">
   <a href="mailto:thalesalves758@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thalesalvess/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
