@@ -2,9 +2,10 @@
 
 ### About me
 - 🖥️ I'm an Information Systems student - 5/8
-- ⌨️ I'm currently studying HTML, CSS and JavaScript
+- 💻 I'm also studying in the Driven Education bootcamp
+- ⌨️ I'm currently learning HTML, CSS and JavaScript
 - 📚 I'm also learning English
-- ❤️ I love tecnology
+- ❤️ I love tecnology and coffee
 - 🎵 I do everything listening to lofi music, it helps me concentrate
 
 ### GitHub status
