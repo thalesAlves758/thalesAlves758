@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thalesAlves758.visitor-badge&left_color=black&right_color=purple&left_text=visits)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thalesAlves758.visitor-badge&left_color=black&right_color=purple&left_text=visits) -->
 ## 👋 Hello there! I'm Thales Alves
 
 ### About me
