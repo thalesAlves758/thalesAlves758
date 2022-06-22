@@ -3,7 +3,7 @@
 
 ### About me
 - 🖥️ I'm an Information Systems student - 5/8
-- 💻 I'm also studying in the Driven Education bootcamp
+- 💻 I'm also studying at Driven Education Bootcamp
 - ⌨️ I'm currently learning React.js
 - 📚 I'm also learning English
 - ❤️ I love tecnology and coffee
