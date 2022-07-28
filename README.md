@@ -7,7 +7,7 @@
 - ⌨️ I'm currently learning React.js
 - 📚 I'm also learning English
 - ❤️ I love tecnology and coffee
-- 🎵 I do everything listening to lofi music, it helps me concentrate
+- 🎵 I do everything listening to lofi music
 
 ### GitHub status
 <div align="center">
