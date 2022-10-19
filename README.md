@@ -4,7 +4,7 @@
 ### About me
 - 🖥️ I'm an Information Systems student - 6/8
 - 💻 I'm also studying at Driven Education Bootcamp
-- ⌨️ I'm currently learning React.js, Backend with Typescript and AWS
+- ⌨️ I'm currently learning Docker and AWS
 - 📚 I'm also learning English
 - ❤️ I love tecnology and coffee
 - 🎵 I do everything listening to lofi music
