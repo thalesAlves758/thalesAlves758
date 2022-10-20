@@ -2,7 +2,7 @@
 ## 👋 Hello there! I'm Thales Alves
 
 ### About me
-- 🖥️ I'm an Information Systems student - 6/8
+- 🖥️ I'm a student of Information Systems - 6/8
 - 💻 I'm also studying at Driven Education Bootcamp
 - ⌨️ I'm currently learning Docker and AWS
 - 📚 I'm also learning English
