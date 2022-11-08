@@ -1,7 +1,8 @@
 ## 👋 Olá! Eu sou Thales Alves
 
 ### Sobre mim
-- 🖥️ Eu sou estudante de Sistemas de Informação - 6/8
+- 🖥️ Sou Desenvolvedor Web
+- 📓 Sou estudante de Sistemas de Informação - 6/8
 - 💻 Também estou estudando no Bootcamp da Driven Education
 - ⌨️ Atualmente estou aprendendo Docker e AWS
 - 📚 Também estou aprendendo Inglês
