@@ -3,7 +3,6 @@
 ### Sobre mim
 - 🖥️ Sou Desenvolvedor Web
 - 📓 Sou estudante de Sistemas de Informação - 6/8
-- 💻 Também estou estudando no Bootcamp da Driven Education
 - ⌨️ Atualmente estou aprendendo Docker e AWS
 - 📚 Também estou aprendendo Inglês
 - ❤️ Eu amo tecnologia e café
