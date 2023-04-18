@@ -2,9 +2,8 @@
 
 ### Sobre mim
 - 🖥️ Sou Desenvolvedor Web
-- 📓 Sou estudante de Sistemas de Informação - 6/8
-- ⌨️ Atualmente estou aprendendo Docker e AWS
-- 📚 Também estou aprendendo Inglês
+- 📓 Sou estudante de Sistemas de Informação - 7/8
+- ⌨️ Estou aprendendo Inglês
 - ❤️ Eu amo tecnologia e café
 - 🎵 Faço tudo ouvindo lofi
 
