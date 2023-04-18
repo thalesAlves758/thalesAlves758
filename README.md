@@ -2,7 +2,7 @@
 
 ### Sobre mim
 - 🖥️ Sou Desenvolvedor Web
-- 📓 Sou estudante de Sistemas de Informação - 7/8
+- 📓 Sou estudante de Sistemas de Informação
 - ⌨️ Estou aprendendo Inglês
 - ❤️ Eu amo tecnologia e café
 - 🎵 Faço tudo ouvindo lofi
